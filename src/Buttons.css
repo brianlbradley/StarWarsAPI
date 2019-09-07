@@ -1,0 +1,15 @@
+.container{
+    max-width: 100%;
+    max-height: auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+
+.btn{
+    flex-grow: 0.1;
+    cursor: pointer;
+    font-weight: 600;
+}
